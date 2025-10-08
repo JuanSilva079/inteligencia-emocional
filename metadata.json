@@ -1,0 +1,5 @@
+{
+  "name": "El Viaje del Amor: A Text Adventure",
+  "description": "A dynamic text adventure game about navigating the complexities of a relationship using emotional intelligence, powered by the Gemini API. Players make choices that shape the story, leading to different outcomes based on empathy, cooperation, or conflict.",
+  "requestFramePermissions": []
+}
